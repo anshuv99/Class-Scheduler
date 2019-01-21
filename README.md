@@ -1,4 +1,4 @@
-# Clever Coding Challenge - Class Scheduling #
+#  Class Scheduler #
 
 This code is implemented in JAVA with Java SDK 1.8 and Unit test cases are in JUNIT4
 
